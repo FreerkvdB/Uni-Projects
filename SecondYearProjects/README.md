@@ -43,4 +43,4 @@ To explore a specific project:
 
 ---
 
-> 💡 **Note:** These projects reflect my learning progress as a first-year IT student and are not production-ready software.
+> 💡 **Note:** These projects reflect my learning progress as a second-year IT student and are not production-ready software.
