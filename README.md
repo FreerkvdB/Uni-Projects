@@ -1,84 +1,71 @@
-# 🎓 University Coding Projects 
+# 🎓 University Coding Projects
 
-Welcome to my repository for university programming projects! This repository includes solutions, planning documents, and source code developed as part of my coursework at Belgium Campus ITversity.
+Welcome to my repository for programming coursework completed at **Belgium Campus ITversity**. This repo contains structured folders by academic year, showcasing practical projects in multiple programming languages and technologies.
 
 ## 📚 About
 
-This repository showcases various C# and related projects completed during my studies. Projects include real-world problem-solving applications built using object-oriented programming principles, threads, events, exception handling, and more.
+This repository serves as a portfolio of my learning journey across different modules including:
+
+- C# and .NET Framework (Console Applications)
+- HTML, CSS, JavaScript (Frontend Development)
+- SQL and SSMS (Database Development)
+- Microsoft Access (Database Management)
+
+Each folder is organized by academic year and includes well-documented code, where applicable.
 
 ---
 
-## 🧩 Project List
+## 📁 Project Structure
 
-| Project Name                  | Description                                                                 | Technologies        |
-|------------------------------|-----------------------------------------------------------------------------|---------------------|
-| PRG2781 Real-World App       | A C# console app solving a real-world issue using advanced OOP techniques  | C#, Threads, Events |
-
----
-
-## 🛠 Technologies & Concepts
-
-- C# Console Applications
-- HTML5
-- CSS3
-- JavaScript
-
-
----
-
-## 🧠 Learning Outcomes
-
-These projects demonstrate:
-- Application of theoretical concepts in practical scenarios.
-- Clean and maintainable code design using OOP principles.
-- Use of software engineering tools such as flowcharts, class diagrams, and structured planning.
-
----
-## 📅 Project Structure by Year
-
-This repository is divided into folders based on academic year and type of project:
-
----
-
-## 📁 Folder Structure
-
-```plaintext
-/PRG2781_Project/
-├── README.md
-├── Pseudocode/
-├── Flowcharts/
-├── ClassDiagrams/
-├── SourceCode/
-└── Documentation/
+```📦 University-Coding-Projects/
+├── FirstYearProjects/
+|   ├── WPR181_Project/
+|   ├── PRG181_Project/
+|   ├── PRG182_Project/ 
+|   ├── DBD181_Project/ 
+|   └── README.md 
+├──SecondYearProjects/
+|   ├── WPR281_Project/ 
+|   ├── PRG2781_Project/ 
+|   ├── DBD281_Project/ 
+|   └── README.md 
+├── .gitignore
+└── README.md
 ```
 
 ---
 
-## 🚀 Getting Started
+## 🧑‍💻 Skills Demonstrated
 
-To run any C# console project:
-1. Clone the repo:
-   ```bash
-   git clone https://FreerkvdB/Uni-Projects.git
-   ```
-2. Open the solution in Visual Studio.
-3. Build and run the project.
+- Object-Oriented Programming (OOP)
+- Frontend web development
+- SQL queries and database design
+- Exception handling and threading (C#)
+- Event-driven programming
 
 ---
 
-## 👤 Author
+## 🔧 How to Run
 
-**Freerk Van Den Bos**  
-Second-Year IT Student – Belgium Campus ITversity  
-📧 Email: [vdbosfreerk@gmail.com]  
-🔗 GitHub: [https://github.com/FreerkvdB](https://github.com/FreerkvdB)
+Most C# projects are .NET Console Applications. To run them:
+
+1. Open the project in **Visual Studio**
+2. Restore NuGet packages if needed
+3. Build and run
+
+HTML/CSS/JS projects can be opened directly in a browser.
+
+SQL scripts are designed for **Microsoft SQL Server Management Studio (SSMS)**.
 
 ---
 
-🧑‍🤝‍🧑 **Disclaimer**: Many of the projects in this repository were completed as part of group work for university coursework. While I contributed to each, credit is also due to my teammates for their collaboration and input.
+## 📈 Future Plans
+
+- Add second-semester projects
+- Add third year projects
 
 ---
 
-## 📄 License
+## 🙌 Acknowledgements
 
-This project is for educational purposes. Do not redistribute or reuse without permission.
+Thank you to every teammate that contributed to these group projects
