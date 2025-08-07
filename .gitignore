@@ -1,0 +1,71 @@
+# ==========================
+# OS generated files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# C# / .NET Framework
+# ==========================
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.pdb
+*.mdb
+
+# ==========================
+# Visual Studio Code
+# ==========================
+.vscode/
+
+# ==========================
+# Node / JavaScript
+# ==========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==========================
+# SQL and database files
+# ==========================
+*.mdf
+*.ldf
+*.ndf
+*.sql
+*.bak
+*.sqlite
+*.sqlite3
+
+# ==========================
+# Microsoft Access
+# ==========================
+*.accdb
+*.mdb
+
+# ==========================
+# Web development (HTML, CSS, JS)
+# ==========================
+# (Usually nothing to ignore here except build folders)
+dist/
+build/
+
+# ==========================
+# Backup and temp files
+# ==========================
+*~
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
