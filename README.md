@@ -66,6 +66,13 @@ SQL scripts are designed for **Microsoft SQL Server Management Studio (SSMS)**.
 
 ---
 
+## 👤 Author
+- Freerk Van Den Bos
+- Second-Year IT Student – Belgium Campus ITversity
+- 📧 Email: [vdbosfreerk@gmail.com]
+- 🔗 GitHub: https://github.com/FreerkvdB
+  
+---
 ## 🙌 Acknowledgements
 
 Thank you to every teammate that contributed to these group projects
