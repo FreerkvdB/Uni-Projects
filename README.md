@@ -4,14 +4,14 @@ Welcome to my repository for programming coursework completed at **Belgium Campu
 
 ## 📚 About
 
-This repository serves as a portfolio of my learning journey across different modules including:
+This repository serves as a portfolio of my learning journey across different modules, including:
 
-- C# and .NET Framework (Console Applications)
+- C# and .NET Framework (Console Applications, Windows Forms, and ADO.NET)
 - HTML, CSS, JavaScript (Frontend Development)
 - SQL and SSMS (Database Development)
 - Microsoft Access (Database Management)
 
-Each folder is organized by academic year and includes well-documented code, where applicable.
+Each folder is organized by academic year and includes Zip folders of all projects available for download, where applicable.
 
 ---
 
@@ -27,7 +27,8 @@ Each folder is organized by academic year and includes well-documented code, whe
 ├──SecondYearProjects/
 |   ├── WPR281_Project/ 
 |   ├── PRG2781_Project/ 
-|   ├── DBD281_Project/ 
+|   ├── DBD281_Project/
+|   ├── PRG282_Project/
 |   └── README.md 
 ├── .gitignore
 └── README.md
@@ -42,6 +43,7 @@ Each folder is organized by academic year and includes well-documented code, whe
 - SQL queries and database design
 - Exception handling and threading (C#)
 - Event-driven programming
+- ADO.NET
 
 ---
 
@@ -61,8 +63,7 @@ SQL scripts are designed for **Microsoft SQL Server Management Studio (SSMS)**.
 
 ## 📈 Future Plans
 
-- Add second-semester projects
-- Add third year projects
+- Add third-year projects
 
 ---
 
@@ -75,4 +76,4 @@ SQL scripts are designed for **Microsoft SQL Server Management Studio (SSMS)**.
 ---
 ## 🙌 Acknowledgements
 
-Thank you to every teammate that contributed to these group projects
+Thank you to every teammate who contributed to these group projects
