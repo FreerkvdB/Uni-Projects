@@ -7,14 +7,14 @@ This folder contains all programming and coursework projects completed during my
 These projects cover foundational topics in software development, web design, databases, and object-oriented programming. Languages and technologies used include:
 
 - C# (.NET Framework)
-- HTML, CSS, JavaScript
+- HTML, CSS
 - SQL (T-SQL)
 - Microsoft Access
 
 
 ## ✅ Purpose
 
-The aim of these projects was to build problem-solving skills, apply theoretical knowledge in practical tasks, and develop clean, maintainable code using best practices.
+These projects aimed to build problem-solving skills, apply theoretical knowledge in practical tasks, and develop clean, maintainable code using best practices.
 
 ## 📁 Structure
 
@@ -30,10 +30,10 @@ The aim of these projects was to build problem-solving skills, apply theoretical
 ## 🔧 How to Use
 
 To explore a specific project:
-1. Navigate to its subfolder.
-2. Review the included files (code, documentation, assets).
+1. Navigate to the Zip folder.
+2. Download the Zip folder.
 
 ---
 
-> 💡 **Note:** These projects reflect my learning progress as a first-year IT student and are not production-ready software.
+> 💡 **Note:** These projects reflect my learning progress as a first-year IT student and are not production-ready software. These projects are group-based and are not solely my own work.
 
