@@ -23,7 +23,6 @@ Each subfolder represents a specific assignment or module project. Highlights in
 - **DBD281_Project** – A Database Management project using **SQL Server Management Studio (SSMS)**. This project focuses on database design, query writing, stored procedures, and normalization.
 - **PRG282_Project** – A C# Windows Form app using **ADO.NET** to create two .txt files to store data and read data to be used in the Windows Form app. This project focuses on layered architecture, form design, ADO.NET, FileStreams, StreamWriters, and StreamReaders. 
 
-*(More projects will be added as the year progresses.)*
 
 ## 🎯 Purpose
 
