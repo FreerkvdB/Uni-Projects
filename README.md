@@ -10,6 +10,7 @@ This repository serves as a portfolio of my learning journey across different mo
 - HTML, CSS, JavaScript (Frontend Development)
 - SQL and SSMS (Database Development)
 - Microsoft Access (Database Management)
+- Python (Machine Learning)
 
 Each folder is organized by academic year and includes Zip folders of all projects available for download, where applicable.
 
@@ -29,7 +30,10 @@ Each folder is organized by academic year and includes Zip folders of all projec
 |   ├── PRG2781_Project/ 
 |   ├── DBD281_Project/
 |   ├── PRG282_Project/
-|   └── README.md 
+|   └── README.md
+├──ThirdYearProjects/
+|   ├── MLG81_Project/ 
+|   ├── MLG382_Project/
 ├── .gitignore
 └── README.md
 ```
@@ -44,6 +48,7 @@ Each folder is organized by academic year and includes Zip folders of all projec
 - Exception handling and threading (C#)
 - Event-driven programming
 - ADO.NET
+- Machine Learning
 
 ---
 
@@ -58,7 +63,7 @@ Most C# projects are .NET Console Applications. To run them:
 HTML/CSS/JS projects can be opened directly in a browser.
 
 SQL scripts are designed for **Microsoft SQL Server Management Studio (SSMS)**.
-
+MLG Python notebooks can be opened using VS Code or Jupyter Notebook.
 ---
 
 ## 📈 Future Plans
