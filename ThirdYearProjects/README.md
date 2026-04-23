@@ -14,7 +14,7 @@ These projects focus on solving real-world problems using more advanced programm
 Each subfolder represents a specific assignment or module project. Highlights include:
 
 - **MLG382** – Have two subfolders, namely CYOProject and GuidedProject.
-- **PRJ381** - Final year project, not in this repo, can be found at [GitHub](Link HERE)
+- **PRJ381** - Final year project, not in this repo, can be found at [GitHub](https://github.com/FreerkvdB/AI-Enabled-Pilot-Fatigue-Detection-Safety-System)
 
 
 
