@@ -1,38 +1,42 @@
-🎓 Third Year Projects
+# 🎓 Third Year Projects
 
-This folder contains all coursework and programming projects completed during my third year at Belgium Campus ITversity.
+This folder contains all coursework and programming projects completed during my third year at **Belgium Campus ITversity**.
 
-📚 Overview
-These projects build on foundational knowledge from previous years and focus on applying advanced concepts to real-world scenarios. Key areas include:
+## 📚 Overview
 
-Machine Learning and Data Science (Scikit-learn, Pandas, NumPy)
-Data Preprocessing and Exploratory Data Analysis (EDA)
-Model Training, Evaluation, and Optimization
-AI Model Explainability (SHAP, feature importance)
+These projects focus on solving real-world problems using more advanced programming techniques and technologies introduced during the second year. Key areas include:
 
-📂 Projects
+- Python (Machine Learning)
+  
+
+## 📂 Projects
+
 Each subfolder represents a specific assignment or module project. Highlights include:
 
-CYOProject – A machine learning project using clustering techniques such as K-Means to segment customers based on behavior and characteristics.
+- **MLG382** – Have two subfolders, namely CYOProject and GuidedProject.
+- **PRJ381** - Final year project, not in this repo, can be found at [GitHub](Link HERE)
 
-GuidedProject - A machine learning project that predicts risk of diabetes.
 
-🎯 Purpose
-These projects demonstrate the transition from writing functional programs to building intelligent, data-driven systems. They reflect the ability to work with complex datasets, apply machine learning techniques, and follow structured software development practices.
 
-📁 Structure
-├── MLG382_Project/ # Machine Learning & AI
-├── Customer_Segmentation_Project/ # Clustering & Data Science
-├── Software_Engineering_Project/ # Agile & Collaboration
-├── Data_Analysis_Project/ # EDA & Insights
+## 🎯 Purpose
+
+These projects reflect the growing complexity and depth of software development skills acquired during third-year studies. They demonstrate the ability to design, implement, and document solutions that are both functional and maintainable.
+
+## 📁 Structure
+
+```ThirdYearProjects/
+├── MLG382_Project/ # Machine Learning
+|   ├── CYOProject/ # ML model for customer segmentation, with DASH web app
+|   ├── GuidedProject/ # ML model for diabetes prediction, with DASH web app
 └── README.md # This file
+```
 
-🔧 How to Use
+## 🔧 How to Use
+
 To explore a specific project:
+1. Navigate to the folder
+2. Download the folder
 
-Navigate to the relevant folder
-Download or clone the repository
-Follow project-specific instructions inside each folder
+---
 
-💡 Note:
-These projects reflect my development as a third-year IT student and are not production-ready systems. Many of these projects are group-based and represent collaborative work rather than individual contributions.
+> 💡 **Note:** These projects reflect my learning progress as a third-year IT student and are not production-ready software. These projects are group-based and not solely my own work.
